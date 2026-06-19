@@ -15,3 +15,6 @@ An end-to-end machine learning project that predicts students' writing scores ba
 ### Target Variable
 
 * Writing Score
+
+
+Try the live app here: https://student-score-predictor-1nuw.onrender.com
